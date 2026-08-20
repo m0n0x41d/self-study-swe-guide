@@ -66,7 +66,14 @@ I'm sharing an adaptation of his guide with his permission, combined with what I
 
 I DO believe it is!
 
-AI has changed software development and made engineering fundamentals even more valuable, not obsolete.
+At the same time, **AI-assisted engineering is no longer optional. There is no going back to software engineering without it.** The pace of development has already increased, and it will not stop accelerating. This makes engineering fundamentals even more valuable, not obsolete. While following this guide, you should also start learning—right now, in parallel—how to create real projects with AI.
+
+This guide will not teach you how to build projects with AI. That is deliberate: its job is to build the engineering foundation underneath that work. Treat these as two separate tracks and practice both:
+
+* follow this guide to build programming fluency, engineering thinking, and the fundamentals;
+* build separate projects with AI to learn AI-assisted engineering in practice.
+
+Do not wait to finish one before starting the other. These tracks are complementary. Fundamentals let you direct, inspect, and remain responsible for AI-produced work. AI lets you build more, encounter larger problems, and learn faster.
 
 AI can already produce some code quickly and cheaply. That is useful: a good engineer can test hypotheses, explore alternatives, and build working systems faster.&#x20;
 
@@ -76,13 +83,19 @@ How do we choose the right databases and design data models? How do we ensure th
 
 I think these are purely rhetorical questions.
 
-\*\*\*
+AI can also help you study faster. If you genuinely study the topics and practice [thinking through writing](learning-path/learning-programming-basics.md#thinking-through-writing), use AI to ask questions, get explanations, generate examples and counterexamples, and review your understanding. It can shorten the feedback loop, but it cannot do the thinking through writing for you.
+
+> In other words: Use AI to PROMPT YOURSELF. Get the idea – close the loop so your brain works as much as possible, especially when you're studying.
+
+For language basics, writing code, and solving programming tasks, I still think you should rely on your own brain and hands. It is very, very hard to develop fluency in programming thinking if you only generate solutions with AI and read them.
+
+At the extreme, yes: you probably can use AI throughout this guide if you genuinely study every topic, every algorithm, and every data structure, and can explain and reproduce what was generated. But I still think writing the code yourself will root the understanding and knowledge deeper in your head.
 
 This is why the guide still asks you to write programs, debug them, study data structures, read code, work with databases, and explain ideas in your own words. The goal is not to compete with an AI model at typing syntax. The goal is to build enough of a model in your own head to understand a problem, inspect a solution, notice what is missing, and remain responsible for the result.&#x20;
 
 By honestly following the path from this guide and making an effort, you will literally do one thing – **train** a software engineering **neural network** in your own head.
 
-Use AI while you learn. Ask it for a hint when you are struggling for a while, an explanation, a counterexample, or a review of a solution you have already attempted. Then inspect its answer, challenge it, and make sure you can reproduce and explain the result yourself. If the model completed the exercise and you cannot explain the solution, return to the exercise; the learning step is still incomplete.
+Use AI fully in the AI-assisted project track. In the foundations track, I still recommend using it as a teacher and reviewer before using it as the author of your solution. Inspect its answers, challenge them, and make sure you can reproduce and explain the result yourself. If the model completed an exercise and you cannot explain the solution, the learning step is still incomplete.
 
 I think of this as augmented engineering: the human and the AI strengthen each other. You can delegate more execution as your judgment grows, but you cannot delegate the work of developing that judgment.&#x20;
 
