@@ -70,23 +70,35 @@ Do not let perfection trap you here. Later sections will deepen these skills.
 
 ## Thinking through writing
 
-From this block onward, you will encounter many concepts, terms, and skills.
+> Attention!!! 🚨 \
+> \
+> This section is the most valuable in this whole guide and might have the most impact on all your future self-studying, professional, and personal development in a lifetime. If I could force you to fully internalize and understand only one concept from this whole guide, it would be "Thinking through writing."
 
-Learning itself is a skill. The most useful method I can share here may sound obvious, but it is difficult and rewarding in practice.
+Alrighty, from this block onward, you will encounter many concepts, terms, and skills.
 
-If you want to establish solid skills, practise "thinking through writing."
+Learning itself is a _**skill**_. The most useful method I can share here may sound obvious, but it is difficult but incredibly rewarding in practice.
 
-I'm an advocate of systems engineering and systems thinking. I will not go into the details here, but the practical test is simple: _**after studying a topic, write several sentences or a short essay about it in your own words. The gaps in that explanation show you what to revisit.**_
+If you want to establish solid skills (any skills in life, to he honest – even physical ones), practice "thinking through writing."
 
-> Own words, you hear?
+The whole thing sound very simple: _**after studying a topic, write several sentences or a short essay about it in your own words. The gaps in that explanation show you what to revisit.**_
 
-Deliberate study, reflection, and review can improve both recall and understanding:
+> **Own words, you hear?**&#x20;
+>
+> NOT "note-taking".&#x20;
+>
+> NOT peeking into source material.&#x20;
+>
+> If you need to peek – go and read/skim again, close the tab, and then write.
+
+Deliberate study, reflection, and review can improve both recall and understanding. The same applies to both – writing in natural language and writing code when you are learning to code (writing code is also "thinking through writing"; it is just a specific language with a very concrete syntax and semantics):
 
 <div align="center" data-full-width="false"><figure><img src="../.gitbook/assets/image (2).png" alt="A progression meme: copying from Stack Overflow or an LLM, writing simple programs, understanding algorithms and data structures, expressing domain abstractions, understanding paradigms and type systems, then seeing computation as mathematical composition."><figcaption></figcaption></figure></div>
 
-Writing programs is already a form of thinking through a notation. Courses often supply scaffolding and hints, so reinforce the skill by closing the example and writing a similar program from a blank file.
+Again – writing programs is already a form of thinking through writhing.&#x20;
 
-For a theoretical concept, write what you remember and understand in your own words, then compare it with the source and correct the gaps.
+Courses often supply scaffolding and hints, so reinforce the skill by closing the example and writing a similar program from a blank file.
+
+For a theoretical concept, write what you remember and understand in your own words, then compare it with the source and correct the gaps. Start with this, if "thinking through writing in code" is hard. Just think in your native, natural language.
 
 Do not be afraid to write something incomplete or wrong. An imperfect explanation gives you an object to inspect and correct. When you return with more experience, keep the old version visible and add what changed in your understanding.
 
@@ -101,6 +113,10 @@ Keep trying, return to the source, run another example, and make the explanation
 Thinking through writing is a professional skill worth developing if you want to become a strong self-directed learner and engineer.
 
 > Consistency compounds, but progress is not a smooth percentage. Code, read, write, get feedback, and keep returning to the gaps you find.
+
+To be perfectly honest, it's even simpler:&#x20;
+
+> _"If you can't write and explain something in your own words, it means you haven't thought about it at all, it means you haven't understood anything, you haven't learned anything."_
 
 ***
 
