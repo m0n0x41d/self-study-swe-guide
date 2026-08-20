@@ -33,11 +33,13 @@ layout:
 
 Hi, I'm Ivan Zakutnii. I'm a systems engineer, CTO at [Glentorion](https://glentorion.com/), co-founder of [Fusioncat](https://fusioncat.dev/), and creator of [Haft](https://haft.tools/). Earlier in my career, I worked as a Staff and Platform Engineer on fintech and production AI systems.
 
-Those titles are context, not a claim that I have found the one true way to learn. The relevant part is that I took a self-study route into professional engineering, spent years learning with an experienced mentor, and have kept testing these fundamentals in real work.
+I am mentioning this just for context, not as a claim that I have found the one true way to learn. The relevant part is that I took a self-study route into professional engineering, spent years learning with an experienced mentor, and have kept testing these fundamentals in real work.&#x20;
 
-I write about systems engineering, software, and learning on [my blog](https://ivanzakutnii.com/). This guide is my step-by-step path for learning how to become a solid software engineer.
+My experience was such that it was thanks to self-education and a mentor that I learned much more than in an edu institution.&#x20;
 
-### What this plan is not about
+I also write about systems engineering, software, and learning on [my blog](https://ivanzakutnii.com/). This guide is a step-by-step path for learning how to become a solid software engineer.
+
+What this plan is **not** about
 
 * "Ten best projects for your resume"
 * Learning frameworks and other mainstream stuff you're already bombarded with everywhere
@@ -46,37 +48,51 @@ I write about systems engineering, software, and learning on [my blog](https://i
 
 ### Where did these materials come from?
 
-This is how I learned programming and software engineering from my mentor. It is mostly a rewritten version of the free plan he offers to self-taught programmers starting from zero.
+This is how I learned programming and software engineering from my Mentor. It is mostly a rewritten version of the free plan he offers to self-taught programmers starting from zero.
 
-I've spent years learning from him through internal paid courses, so much of what I know about programming comes from his teaching.
+I've spent years learning from him through internal materials.
 
 ### Who is my mentor?
 
-I won't name names because our school is kind of underground and has rules I stick to.
+I won't name names because our laboratory is kind of underground club and has rules I stick to.
 
 In short: he has been programming since 1979. He has written more than a dozen books and programming courses, plus about a thousand articles on software engineering since 1995. He has trained thousands of people in programming and worked as a software engineer on many international projects. He is also a certified ICM (Institute of Consulting and Management) coach.
 
 I'm sharing an adaptation of his guide with his permission, combined with what I learned while studying and working in the field.
 
-> The tools and resources in this guide will keep changing. The core path is deliberately more stable.
+> The tools and resources in this guide will keep changing. The core path is deliberately stable.
 
 ## Is this guide still relevant in the AI era?
 
-I DO believe it is. AI has changed software development and made engineering fundamentals more valuable, not obsolete.
+I DO believe it is!
 
-AI can already produce simple code quickly and cheaply. That is useful: a good engineer can test hypotheses, explore alternatives, and build working systems faster. But AI also amplifies the thinking that is already present. Strong engineering judgment gains leverage; weak mental models let you produce confident mistakes at much greater speed.
+AI has changed software development and made engineering fundamentals even more valuable, not obsolete.
 
-This is why the guide still asks you to write programs, debug them, study data structures, read code, work with databases, and explain ideas in your own words. The goal is not to compete with an AI model at typing syntax. The goal is to build enough of a model in your own head to understand a problem, inspect a solution, notice what is missing, and remain responsible for the result.
+AI can already produce some code quickly and cheaply. That is useful: a good engineer can test hypotheses, explore alternatives, and build working systems faster.&#x20;
 
-Use AI while you learn. Ask it for a hint, an explanation, a counterexample, or a review of a solution you have already attempted. Then inspect its answer, challenge it, and make sure you can reproduce and explain the result yourself. If the model completed the exercise and you cannot explain the solution, return to the exercise; the learning step is still incomplete.
+But AI also amplifies the thinking and experience that is already present in its operator. Strong engineering judgment gains leverage; weak mental models let you produce confident mistakes at much greater speed.
 
-I think of this as augmented engineering: the human and the AI strengthen each other. You can delegate more execution as your judgment grows, but you cannot delegate the work of developing that judgment. I wrote a longer version of this position in [The Best Harness Is You and Your AI Agents](https://ivanzakutnii.com/en/blog/the-best-harness-is-you-and-your-ai-agents/).
+How do we choose the right databases and design data models? How do we ensure that the AI-generated code is adequate for the business problems our system solves? How can we predict asymptotic bottlenecks at different system levels?
+
+I think these are purely rhetorical questions.
+
+\*\*\*
+
+This is why the guide still asks you to write programs, debug them, study data structures, read code, work with databases, and explain ideas in your own words. The goal is not to compete with an AI model at typing syntax. The goal is to build enough of a model in your own head to understand a problem, inspect a solution, notice what is missing, and remain responsible for the result.&#x20;
+
+By honestly following the path from this guide and making an effort, you will literally do one thing – **train** a software engineering **neural network** in your own head.
+
+Use AI while you learn. Ask it for a hint when you are struggling for a while, an explanation, a counterexample, or a review of a solution you have already attempted. Then inspect its answer, challenge it, and make sure you can reproduce and explain the result yourself. If the model completed the exercise and you cannot explain the solution, return to the exercise; the learning step is still incomplete.
+
+I think of this as augmented engineering: the human and the AI strengthen each other. You can delegate more execution as your judgment grows, but you cannot delegate the work of developing that judgment.&#x20;
+
+I wrote a longer version of this position in [The Best Harness Is You and Your AI Agents](https://ivanzakutnii.com/en/blog/the-best-harness-is-you-and-your-ai-agents/).
 
 ## Who is this guide for?
 
-This guide is for beginners and early-career programmers who want to build a serious software engineering foundation before specializing.
+This guide is for beginners and early-career software engineers who want to build a serious  engineering foundation before specializing.
 
-You do not need to know your final specialization yet. You do need curiosity, patience, and a willingness to practise things that will not pay off immediately.
+You do not need to know your final specialization yet. You do need curiosity, patience, and a willingness to practice things that will not pay off immediately. We are building a solid house here, not a one-night shelter made from palm leaves.
 
 There is a catch: this requires sustained effort. Fifteen distracted minutes once in a while will not build the skill. Regular focused practice matters more than occasional heroic sessions.
 
@@ -86,7 +102,7 @@ There is a catch: this requires sustained effort. Fifteen distracted minutes onc
 
 ***
 
-This is not a job-placement plan, and completing it does not guarantee employment. Hiring depends on your market, specialization, portfolio, communication, interview skills, and timing.
+This is not a job-placement plan, and completing it does not guarantee employment. Hiring depends on your market, specialization, portfolio, communication, interview skills, your personal brand, network and timing.
 
 You will also need role-specific technologies and collaboration skills beyond this guide. Those change much faster than the foundation covered here.
 
