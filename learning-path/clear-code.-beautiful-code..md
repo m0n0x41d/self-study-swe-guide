@@ -20,4 +20,4 @@ Also read the style guide for your language and inspect a well-maintained codeba
 
 While reading, refactor one of your earlier programs. Preserve its behaviour with tests, improve the names and boundaries, and inspect the diff. Be able to explain why each change makes the next change safer or easier.
 
-Do not forget to take the damn notes.
+Do not forget to take the damn notes in your own words :)
