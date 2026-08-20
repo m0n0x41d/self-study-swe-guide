@@ -4,9 +4,9 @@
 
 ## Basic Understanding
 
-* [Good-to-have in your mind](basic-undestanding/good-to-have-in-your-mind.md)
-* [What exactly is a programmer's job?](basic-undestanding/what-exactly-is-a-programmers-job.md)
-* [Choosing first language and thinking about potential career path](basic-undestanding/choosing-first-language-and-thinking-about-potential-career-path.md)
+* [Good-to-have in your mind](basic-understanding/good-to-have-in-your-mind.md)
+* [What exactly is a programmer's job?](basic-understanding/what-exactly-is-a-programmers-job.md)
+* [Choosing first language and thinking about potential career path](basic-understanding/choosing-first-language-and-thinking-about-potential-career-path.md)
 
 ## Learning Path
 

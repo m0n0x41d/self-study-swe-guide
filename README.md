@@ -116,7 +116,7 @@ First, read through it quickly to understand what it covers and how much work it
 
 You'll know pretty fast if it's for you or not.
 
-[Basic Understanding](basic-undestanding/good-to-have-in-your-mind.md) is for complete beginners who know little about programming or software jobs. If you already know what a variable is and are comfortable with a command line, skim it and continue.
+[Basic Understanding](basic-understanding/good-to-have-in-your-mind.md) is for complete beginners who know little about programming or software jobs. If you already know what a variable is and are comfortable with a command line, skim it and continue.
 
 The rest is the [Learning Path](learning-path/learning-programming-basics.md), focused on practical skills and how to develop them. The sequence matters, but some adjacent topics can be studied in parallel.
 
