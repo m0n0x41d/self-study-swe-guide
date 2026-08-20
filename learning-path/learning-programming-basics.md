@@ -108,6 +108,6 @@ One last note. You will sometimes struggle and think, "I cannot understand this;
 
 During my first steps in IT, I studied the internals of Unix-like systems. It was not required for my internship; I was curious and wanted to go as deep as I could. Much of it was unclear. I still remember the essence of something Dmitriy Ketov said in a video about Linux internals. My paraphrase is:
 
-> If a human invented or discovered it, you can understand it. Sooner or later, keep trying.
+> If a human invented or discovered it, you can understand it (because you are a human being too!) Sooner or later, just keep trying.
 
 <br>
