@@ -4,7 +4,7 @@ icon: lambda
 
 # Algorithms and Data Structures 1/2
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="Anakin Skywalker saying, 'This is where the fun begins.'"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="Anakin Skywalker saying, &#x27;This is where the fun begins.&#x27;"><figcaption></figcaption></figure>
 
 Now you need to study algorithms and data structures, again with increasing complexity, specifically from Data Structures and Algorithms (DSA) courses.
 
@@ -19,7 +19,9 @@ Choose the medium that helps you think, and keep passing each topic through thin
 
 Two durable free starting points are [Open Data Structures](https://opendatastructures.org/) and MIT OpenCourseWare's [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/). The MIT course is more demanding; use its lectures and exercises when you are ready for mathematical analysis.
 
-The following interview books can provide additional problems and explanations, but they are practice companions rather than complete data-structures textbooks. You do not need to buy both:
+The following interview books can provide additional problems and explanations, but they are practice companions rather than complete data-structures textbooks.&#x20;
+
+You do not need to buy both:
 
 * "Cracking the Coding Interview" by Gayle Laakmann McDowell
 * "Programming Interviews Exposed" by John Mongan, Noah Suojanen Kindler, and Eric Giguère
