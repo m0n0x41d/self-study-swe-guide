@@ -27,73 +27,83 @@ layout:
     visible: true
 ---
 
-# Hello Friend, Start here!
+# Hello friend, start here!
 
-## About Me
+## About me
 
-Hi, I'm Ivan Zakutniy, Staff Platform & Software Engineer.
+Hi, I'm Ivan Zakutnii. I'm a systems engineer, CTO at [Glentorion](https://glentorion.com/), co-founder of [Fusioncat](https://fusioncat.dev/), and creator of [Haft](https://haft.tools/). Earlier in my career, I worked as a Staff and Platform Engineer on fintech and production AI systems.
 
-If you follow my Threads, Telegram, or read my blog, you know I'm a huge advocate for fundamental CS topics and other brain-intensive, awesome stuff.
+Those titles are context, not a claim that I have found the one true way to learn. The relevant part is that I took a self-study route into professional engineering, spent years learning with an experienced mentor, and have kept testing these fundamentals in real work.
 
-I want to share a step-by-step plan for learning how to become a solid Software Engineer.
+I write about systems engineering, software, and learning on [my blog](https://ivanzakutnii.com/). This guide is my step-by-step path for learning how to become a solid software engineer.
 
-#### What won't be in this plan? This isn't about:
+### What this plan is not about
 
 * "Ten best projects for your resume"
 * Learning frameworks and other mainstream stuff you're already bombarded with everywhere
-* Me holding your hand through everything
+* Someone holding your hand through every step
 * "Becoming a programmer in one month"
 
-#### Where did I get these materials?&#x20;
+### Where did these materials come from?
 
-This is how I learned programming and software engineering from my Mentor. It's mostly a rewritten version of the free plan he offers to self-taught programmers starting from zero.
+This is how I learned programming and software engineering from my mentor. It is mostly a rewritten version of the free plan he offers to self-taught programmers starting from zero.
 
-I've spent the last 5 years learning from him through internal paid courses, so most of what I know about programming comes from his teaching.
+I've spent years learning from him through internal paid courses, so much of what I know about programming comes from his teaching.
 
-#### Who's my mentor?&#x20;
+### Who is my mentor?
 
 I won't name names because our school is kind of underground and has rules I stick to.
 
-In short: He has 45 years of programming experience (since 1979). He's written over a dozen books and programming courses, plus about a thousand articles on software engineering since 1995. He's trained thousands of people in programming and worked as a software engineer on many international projects. He's also a certified ICM (Institute of Consulting and Management) coach.
+In short: he has been programming since 1979. He has written more than a dozen books and programming courses, plus about a thousand articles on software engineering since 1995. He has trained thousands of people in programming and worked as a software engineer on many international projects. He is also a certified ICM (Institute of Consulting and Management) coach.
 
-So basically, I'm sharing his guide with his permission, mixed with my own experience from learning and working in the field.
+I'm sharing an adaptation of his guide with his permission, combined with what I learned while studying and working in the field.
 
-> Future versions might include more of my own takes, but the core ideas and path will inevitably stay the same.
+> The tools and resources in this guide will keep changing. The core path is deliberately more stable.
 
-### Preamble
+## Is this guide still relevant in the AI era?
 
-#### Who is this guide for?
+I DO believe it is. AI has changed software development and made engineering fundamentals more valuable, not obsolete.
 
-This guide is for anyone who wants to become a good software engineer, no matter what area you want to work in.
+AI can already produce simple code quickly and cheaply. That is useful: a good engineer can test hypotheses, explore alternatives, and build working systems faster. But AI also amplifies the thinking that is already present. Strong engineering judgment gains leverage; weak mental models let you produce confident mistakes at much greater speed.
 
-Here's the deal - if you have any knack for programming, you can definitely learn it.
+This is why the guide still asks you to write programs, debug them, study data structures, read code, work with databases, and explain ideas in your own words. The goal is not to compete with an AI model at typing syntax. The goal is to build enough of a model in your own head to understand a problem, inspect a solution, notice what is missing, and remain responsible for the result.
 
-But there's a catch - you'll have to work really hard and put in serious time. You can't just spend 15 minutes a day on this. You need to practice a lot - almost (ideally!) every day, for at least a couple of hours.
+Use AI while you learn. Ask it for a hint, an explanation, a counterexample, or a review of a solution you have already attempted. Then inspect its answer, challenge it, and make sure you can reproduce and explain the result yourself. If the model completed the exercise and you cannot explain the solution, return to the exercise; the learning step is still incomplete.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+I think of this as augmented engineering: the human and the AI strengthen each other. You can delegate more execution as your judgment grows, but you cannot delegate the work of developing that judgment. I wrote a longer version of this position in [The Best Harness Is You and Your AI Agents](https://ivanzakutnii.com/en/blog/the-best-harness-is-you-and-your-ai-agents/).
 
-> If you're not up for red pill, stop reading now and go enjoy your life instead.
+## Who is this guide for?
+
+This guide is for beginners and early-career programmers who want to build a serious software engineering foundation before specializing.
+
+You do not need to know your final specialization yet. You do need curiosity, patience, and a willingness to practise things that will not pay off immediately.
+
+There is a catch: this requires sustained effort. Fifteen distracted minutes once in a while will not build the skill. Regular focused practice matters more than occasional heroic sessions.
+
+<figure><img src=".gitbook/assets/image (1).png" alt="Matrix choice: study programming deeply and become an engineer, or make things work somehow and spend a career copying from an LLM."><figcaption></figcaption></figure>
+
+> Read the whole path before committing to it. The work is substantial, and it is better to choose it consciously.
 
 ***
 
-I'm not promising you'll get a job after following this plan. That's a whole different story, especially with how crazy the job market is now and how much employers' requirements keep changing.
+This is not a job-placement plan, and completing it does not guarantee employment. Hiring depends on your market, specialization, portfolio, communication, interview skills, and timing.
 
-You'll probably need to learn some specific technologies and soft skills beyond this plan to boost your job chances. We'll touch on that briefly, and expand the topic in future, I believe (not sure.)
+You will also need role-specific technologies and collaboration skills beyond this guide. Those change much faster than the foundation covered here.
 
-> Here's how Karma works - you get out what you put in, as long as you're putting in the right kind of effort in the right direction.
+> You get out what you put in, provided the effort is deliberate and aimed in the right direction.
 
-So I can promise you one thing - this plan and the knowledge you'll gain will train your brain and build a solid foundation for any kind of IT engineering career, if you will work for it.
+If you do the work honestly, this path is designed to train your problem-solving ability and give you a foundation you can carry into many software engineering roles.
 
-### How to use this book
+## How to use this book
 
-First, read through it quickly to understand what I'm offering and how much work it'll take.&#x20;
+First, read through it quickly to understand what it covers and how much work it will take.
 
 You'll know pretty fast if it's for you or not.
 
-[Basic Undestanding](https://app.gitbook.com/s/nHvYjCTUQx5RIHlaJ5ci/basic-undestanding "mention") contains info for complete beginners who know nothing about programming or IT jobs. I mean COMPLETE beginners - people who don't know what a variable is and have never seen a command prompt. Feel free to skip this part at first, but maybe check it out later - you might learn something new.
+[Basic Understanding](basic-undestanding/good-to-have-in-your-mind.md) is for complete beginners who know little about programming or software jobs. If you already know what a variable is and are comfortable with a command line, skim it and continue.
 
-The rest is the [Learning Path](https://app.gitbook.com/s/nHvYjCTUQx5RIHlaJ5ci/learning-path "mention") itself, focused on practical skills and how to master them. Even the guide is following some order remember that you can learn some topics in parallel.&#x20;
+The rest is the [Learning Path](learning-path/learning-programming-basics.md), focused on practical skills and how to develop them. The sequence matters, but some adjacent topics can be studied in parallel.
 
-Just follow the guide and make sure you're spending enough time and effort on each part.
+Do not advance only because you have finished reading a page. Move on when you can demonstrate the skill without copying a solution.
 
-Good luck and Happy Hacking :axe:
+Good luck, and happy hacking.

@@ -4,25 +4,28 @@ icon: code-pull-request
 
 # Version Control System
 
-I am talking about Git. Just learn it.&#x20;
+I am talking about Git. Learn it early and use it for every program you care about.
 
-> There are other VCS's, but that's up to you. Google them if you want. You likely won't use them, so focus on studying Git.
+> Other version-control systems exist. Git is the practical default for this guide because it is widely used and has abundant learning material.
 
-This is a small but very important point. It should be easier than the previous section :)
+This section is small, but Git deserves deliberate practice because every later project will rely on it.
 
-I've put it as a separate point because it's an important must-have skill that needs emphasis.
+Register on [GitHub](https://github.com/) or another Git host and learn how a local repository relates to a remote one. Git is the version-control system; GitHub is one service that hosts Git repositories.
 
-Register on [github.com](https://github.com/) (if you haven't already) and learn how to create repositories there and upload (push) your code. They have good documentation.
+Use one coherent introduction, then practise in your own repository:
 
-Here's a selection of git courses, you can choose any (no need to learn all, remember - your goal is to understand well, not to infinitely study theory):
+* [Pro Git](https://git-scm.com/book/en/v2) — the free reference book
+* [Learn Git Branching](https://learngitbranching.js.org/) — an interactive visual exercise
+* [GitHub's Hello World guide](https://docs.github.com/en/get-started/start-your-journey/hello-world) — repositories, branches, commits, and pull requests
 
-* [https://www.udemy.com/course/git-expert-4-hours/](https://www.udemy.com/course/git-expert-4-hours/)
-* [https://www.udemy.com/course/git-complete/?couponCode=ST20MT111124B](https://www.udemy.com/course/git-complete/?couponCode=ST20MT111124B)
-* [https://www.udemy.com/course/git-basic-concept-fundamentals-github/](https://www.udemy.com/course/git-basic-concept-fundamentals-github/)
-* [https://www.udemy.com/course/github-ultimate/?couponCode=ST20MT111124B](https://www.udemy.com/course/github-ultimate/?couponCode=ST20MT111124B)
-* [https://www.udemy.com/course/git-and-github-complete-guide/?couponCode=ST20MT111124B](https://www.udemy.com/course/git-and-github-complete-guide/?couponCode=ST20MT111124B)
+Before moving on, make sure you can:
 
-Additional materials:
+* initialize and clone a repository;
+* inspect `status`, a diff, and the history;
+* make focused commits with useful messages;
+* create and merge a branch;
+* push, pull, and understand what a remote-tracking branch represents;
+* resolve a simple merge conflict;
+* restore or revert a mistaken change without deleting unrelated work.
 
-* Game: [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
-* Tutorial: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+Do these operations on a disposable practice repository before you need them on important work.

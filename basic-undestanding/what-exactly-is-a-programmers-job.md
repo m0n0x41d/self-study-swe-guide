@@ -4,26 +4,25 @@ icon: hammer
 
 # What exactly is a programmer's job?
 
-To become a successful programmer, you'll need to understand these core things:
+Writing code is only one part of software engineering. A professional engineer gradually learns to do all of these things:
 
-1. Master one programming language first - pick one and learn it properly. You should aim for at least 10 debugged lines of code per hour. Don't jump to a new language every week - that leads nowhere. Remember: your goal is to learn programming, not just programming languages. Once you know one language well, others become much easier to learn.
-2. Write clean, structured code - not just any code that works. Your code should be easy to understand and maintain. It should document itself through clarity.
-3. OOP and design - while other programming paradigms are growing popular, object-oriented programming remains essential. You need to understand it well.
-4. Algorithms and data structures - this is fundamental knowledge for solving complex problems and passing big company interviews. Ignore anyone who says you won't use these in real work. Those people either spend their careers churning out basic forms, or they don't understand how these topics strengthen your programming brain (or both).
-5. Specialize in one development field - pick your platform (web, mobile, desktop) and stick to it. You can't master everything; life's too short to become great at every type of development.
-6. Learn one framework thoroughly - master it along with its full technology stack (like MEAN or LAMP) for building complete applications.
-7. Understand databases - both SQL and NoSQL. This isn't optional - your applications' performance largely depends on how well you handle data and understand data modeling.
-8. Know cloud basics - while not the most crucial skill, you need to understand cloud platforms and services.
-9. Master version control - especially git. You can't work in teams or manage projects properly without it.
-10. Learn deployment - understand how to get code into production (CI/CD). Pure DevOps roles are dying; good programmers need to know how to deploy their own code.
-11. Testing - learn to write unit tests and understand different testing approaches.
-12. Debugging - develop strong skills in finding and fixing bugs.
-13. Know development methods - understand both waterfall and agile basics.
+1. **Use one programming language fluently.** Learn its type and data model, control flow, functions, modules, error handling, tooling, and standard library. Do not change languages every week. Your first goal is to learn programming through one language, not to collect syntax.
+2. **Read and write maintainable code.** Working code is the starting point. Other people, including your future self, must be able to understand, test, and change it safely.
+3. **Understand several programming paradigms.** Learn imperative, object-oriented, and functional ideas. Practise composition and learn why a design fits one problem better than another. No single paradigm is mandatory everywhere.
+4. **Understand algorithms, data structures, and complexity.** You will not hand-write every structure at work, but you must recognize the cost and behaviour of the structures underneath your program.
+5. **Develop a specialization without becoming blind outside it.** You may focus on web, mobile, data, systems, games, or another field, while keeping enough breadth to understand the systems around your part.
+6. **Learn one application stack deeply.** Eventually, choose a framework and the surrounding tools needed to build, test, package, and run a complete application.
+7. **Understand data and databases.** Start with relational modelling, SQL, constraints, indexes, and transactions. Learn other storage models when a real requirement makes their trade-offs relevant.
+8. **Know operating-system, networking, and cloud basics.** Processes, files, permissions, HTTP, DNS, containers, and hosted services all affect how software behaves outside your editor.
+9. **Use version control.** Learn Git well enough to inspect history, work on a branch, review a diff, resolve a conflict, and recover from a mistake.
+10. **Build, deploy, and operate software.** Understand dependencies, configuration, secrets, CI/CD, logs, metrics, and the basic path from a local program to a running service.
+11. **Test behaviour at several levels.** Unit, integration, API, and end-to-end tests answer different questions. Learn what each test demonstrates and what it leaves unproven.
+12. **Debug systematically.** Reproduce the problem, gather evidence, narrow the possible causes, test a hypothesis, and verify the repair.
+13. **Collaborate around changing software.** Learn to clarify requirements, make small changes, review code, explain decisions, and work with an issue tracker and an iterative delivery process.
+14. **Use AI without surrendering understanding.** Frame the task, inspect generated code and tests, verify the behaviour, and be able to explain what changed and why.
 
-This list looks huge, and it is. Don't panic - you'll learn these skills gradually. Think of this as your ultimate roadmap for the journey into profession ahead.
+This list is large because the profession is large. It is a map, not a checklist you must complete before writing your first useful program.
 
-> This guidebook won't cover everything in depth. It's a reference showing you what's important to learn if you want to land a real programming job.
+> This guide does not cover every item in depth. It concentrates on the foundation that makes the rest easier to learn.
 
-The key point? Start with the basics.&#x20;
-
-That's exactly what we'll do in this plan. You'll focus on becoming a solid software engineer at your core, not just learning applied stuff.
+The key point is to start with the basics. That is exactly what this path does: it helps you build the core of a software engineer before you specialize in applied tools.

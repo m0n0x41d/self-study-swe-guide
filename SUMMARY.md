@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Hello Friend, Start here!](README.md)
+* [Hello friend, start here!](README.md)
 
-## Basic Undestanding
+## Basic Understanding
 
 * [Good-to-have in your mind](basic-undestanding/good-to-have-in-your-mind.md)
 * [What exactly is a programmer's job?](basic-undestanding/what-exactly-is-a-programmers-job.md)
@@ -18,7 +18,7 @@
 * [Clear code. Beautiful code.](learning-path/clear-code.-beautiful-code..md)
 * [DBMS & SQL!](learning-path/dbms-and-sql.md)
 * [Algorithms and Data Structures 2/2](learning-path/algorithms-and-data-structures-2-2.md)
-* [12 - Finally, the Framework and the rest of applied stuff!](learning-path/12-finally-the-framework-and-the-rest-of-applied-stuff.md)
+* [Finally, a framework and the rest of the applied stack](learning-path/12-finally-the-framework-and-the-rest-of-applied-stuff.md)
 
 ## Appendix
 

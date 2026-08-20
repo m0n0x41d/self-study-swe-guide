@@ -4,9 +4,9 @@ icon: square-root
 
 # Learning Programming Basics
 
-So, you've chosen your programming language. Now hear the most important thing – you only need to learn to write very simple programs and solve simple tasks of 10 or a couple dozen lines. Nothing too complex.
+So, you have chosen your programming language. Now hear the most important thing: at this stage, you only need to write simple programs and solve small tasks. Nothing too complex.
 
-You don't need to study frameworks, you shouldn't try to make your own projects, or "follow-code" from random YouTube videos - you won't learn anything useful, you'll pick up bad practices and waste your time. Period.
+You do not need a framework or a large portfolio project yet. Small programs written from scratch are useful; copying a project line by line from a random video is not the same practice.
 
 So, the goal here is to learn basics of your language, and learn it well.
 
@@ -16,92 +16,98 @@ You can choose one of these platforms:
 * [codewars.com](https://www.codewars.com/)
 * [hackerrank.com](https://www.hackerrank.com/)
 
-Or find free (or paid?) courses that you trust, whose syllabus, I repeat, isn't about some crappy projects but about learning the basics of your programming language and elementary imperative programming!
+Or find a free or paid course you trust whose syllabus teaches the basics of your language and elementary programming instead of rushing straight into a framework project.
 
-> If you're completely unsure about the material and can't find anything suitable - write to me, I'll try to help you quickly and free of charge with choosing initial material.
+> If you are unsure, choose one well-maintained beginner track, follow it for a week, and evaluate whether you are writing code and receiving useful feedback. A reversible start is better than another week of comparing courses.
 
-If we're looking at training platforms with tasks, I personally recommend starting with _**exercism**_ because for some programming languages, their tasks are arranged in a learning path with quite detailed explanation of materials.&#x20;
+If we are looking at training platforms with tasks, I personally recommend starting with _**Exercism**_. Many language tracks arrange exercises into a learning path with detailed explanations.
 
-> Just start with it, really. You'll have time to return to codewars, I promise.
+> Start with it. You will have time to return to Codewars later.
 
-Make sure that you enabled learning mode, it should look like this:
+Enable Learning Mode when the track offers it. It should look like this:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt="An Exercism Python track in Learning Mode, with concepts arranged as an unlocking path."><figcaption></figcaption></figure>
 
-If you're starting with a programming language that only has practice mode (no learning mode tree, just a list of tasks) on Exercism, start with easy ones tasks and review all materials provided. Each task includes helpful explanations, documentation links, and hints to teach the necessary concepts for solving it.
+If your language has only Practice Mode on Exercism, start with easy tasks and review the material provided with them. Each task includes instructions, tests, and links that can help you learn the concepts needed to solve it.
 
-Another good point on Exercism – you can ask someone, a mentor to review your solution and provide valuable feedback on your code! And this is for free!
-
-> While Exercism is free and has no ads or paid content, they rely on donations to maintain their service. Consider trying it first, and if you can spare some money later, think about donating to help them keep running this valuable platform.
+Exercism's core learning and mentoring experience is free. You can request human feedback on a solution, and the project accepts donations if it helps you and you can afford to contribute.
 
 ***
 
-Okay, moving back to learning process – try to understand the problem and attempt a solution before looking up answers or asking LLM for help. Only honest work will improve your learning and problem-solving skills.
+Back to the learning process: understand the problem and make a real attempt before looking up an answer or asking an LLM for help. The mental work is the exercise.
 
-This is entirely on your conscience - if you want to learn something, you'll try to apply your own efforts and train your brain.
+AI is useful here when it preserves that work. Ask for a smaller hint, an explanation of a compiler error, a counterexample, or a review of code you have already written. Avoid asking for the complete solution as your first move.
 
-You'll constantly want to cheat yourself, take shortcuts, and so on. it is Inevitable.&#x20;
+After receiving help, close the answer and solve the problem again. Explain why your solution works, which cases it handles, and what you would change. If you cannot do that, return to the exercise.
 
-If you stuck on task for a 20 minuts and make no progress, trust me – it will be beter to take a small break, drink some tea, walk for a while. Once you will be back to your screen... Magic might and likely will happen.&#x20;
+You will want to take shortcuts. That is normal. If you have been stuck for 20 focused minutes and have made no progress, take a short break, drink some tea, or walk. Return with a fresh attempt before escalating to a full solution.
 
-> If you want to learn more about how your brain works, read "Thinking, Fast and Slow" book by Daniel Kahneman
+> For an influential introduction to fast and slow thinking, read Daniel Kahneman's "Thinking, Fast and Slow" critically rather than treating every example as settled science.
 
-Besides that, It's still quite difficult and rare for people to have enough self-control to actually learn effectively on their own. My next advice might seem strange, but if you have such an opportunity - find yourself a mentor who will help you in learning, even just one lesson a week.
+It is difficult to learn effectively alone for a long time. If you have the opportunity, find a mentor or study group that can review your work, even if you meet only once a week.
 
-It's unlikely that someone will help you for free, so look according to your capabilities.
+Long-term individual mentorship is often paid, while study groups, open-source communities, and platforms such as Exercism may provide useful feedback for free. Choose according to your needs and means.
 
 ***
 
-Five years ago, I would have taken such advice with skepticism, but only because I was inexperienced and foolish - a professional, a master can always help you learn something faster, simply because they already have this experience. Plus, mentors usually are those who have at least some teaching experience and desire to teach. Consider this advice seriously.
+Earlier in my own learning, I would have treated that advice with scepticism. Experience changed my mind: a good mentor can see misconceptions you do not yet know how to name and can shorten the feedback loop.
 
-I am not trying to sell you my help, simply because I am not offering any paid mentorships currently. And also I am not going to recommend you any mentor or platform – there are plenty. And if you will seek a mentor for this step, you actually might need just a good middle-grade CS teacher ¯\\\_(ツ)\_/¯
+I am not selling mentorship through this guide, and I will not recommend one universal person or platform. At this stage, a patient computer-science teacher or an experienced programmer who gives concrete feedback may be enough.
 
-The goal of this block is to learn to write simple programs, like tic-tac-toe, guessing game, and so on - nothing complex, no graphics - simple terminal programs.
+The goal of this block is to write simple terminal programs such as tic-tac-toe or a guessing game. Keep the interface and dependencies simple so the programming remains the hard part.
 
-Depending on your predisposition, efforts, and existing experience, you might spend from one to three months on this block.
+Before moving on, you should be able to:
 
-Don't get stuck, it gets more interesting further on.
+* write several small terminal programs from a blank file;
+* break a problem into functions and choose basic data structures;
+* use the debugger or diagnostic output to find a mistake;
+* read a failing test or error message and act on it;
+* explain your solution without relying on an AI-generated explanation.
 
-## An Intermediate but Very Important Advice That I Hope You Won't Skip
+Depending on your available time and previous experience, this block may take weeks or months. The abilities above matter more than the calendar.
 
-Starting with exercises in this block and in all following ones, you'll have to learn a lot. Study many concepts, terms, master new skills.
+Do not let perfection trap you here. Later sections will deepen these skills.
 
-Learning itself is a skill, and I've tried almost all possible methods to learn something. So now I will share the most precious method - it might be obvious, but it's really effective and challenging, yet rewarding.
+## Thinking through writing
 
-If you're really serious and want to establish solid skills, I recommend making your learning real learning through applying so-called "thinking through writing."
+From this block onward, you will encounter many concepts, terms, and skills.
 
-I'm an advocate of systems engineering and systems thinking, I won't go into details now, but the rule is very simple: -> _**You can guarantee that you've learned and remembered something if you can write several sentences or a short essay on the studied or read topic in your own words.**_
+Learning itself is a skill. The most useful method I can share here may sound obvious, but it is difficult and rewarding in practice.
+
+If you want to establish solid skills, practise "thinking through writing."
+
+I'm an advocate of systems engineering and systems thinking. I will not go into the details here, but the practical test is simple: _**after studying a topic, write several sentences or a short essay about it in your own words. The gaps in that explanation show you what to revisit.**_
 
 > Own words, you hear?
 
-Learning thoroughly, making conscious efforts to think, having self-reflection sessions, and reviewing your notes to recall topics and improve understanding will lead to excellent progress:
+Deliberate study, reflection, and review can improve both recall and understanding:
 
-<div align="center" data-full-width="false"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="false"><figure><img src="../.gitbook/assets/image (2).png" alt="A progression meme: copying from Stack Overflow or an LLM, writing simple programs, understanding algorithms and data structures, expressing domain abstractions, understanding paradigms and type systems, then seeing computation as mathematical composition."><figcaption></figcaption></figure></div>
 
-When you write programs, in some way you'll also learn through thinking through writing, but most likely in your course you'll solve typical tasks with lots of hints, so to absolutely solidify your skills you need to either write similar programs in another code file and from scratch - try to reproduce at least something in a similar form, solving a similar task.
+Writing programs is already a form of thinking through a notation. Courses often supply scaffolding and hints, so reinforce the skill by closing the example and writing a similar program from a blank file.
 
-Or if you want to reinforce a theoretical concept learned, just write somewhere in your notes in your own words what you remembered and understood.
+For a theoretical concept, write what you remember and understand in your own words, then compare it with the source and correct the gaps.
 
-Don't be afraid to write nonsense - it's better to write not quite correctly than not to write at all. In the future, returning to your notes, you'll remember and understand much faster what you wrote about, better reinforce the topic, and almost always from the height of your new experience, you'll get new ideas and new understanding of the material! You can add your new thoughts to the same files with notes or to new ones.
+Do not be afraid to write something incomplete or wrong. An imperfect explanation gives you an object to inspect and correct. When you return with more experience, keep the old version visible and add what changed in your understanding.
 
-I recommend keeping your study notes in some software like Obsidian. Even better - if you write your thoughts publicly, maintain a blog or write threads - this will give you even more motivation, impressions, and stimulus, which will only positively affect your learning process.
+Keep your study notes somewhere you can search and revisit them; Obsidian is one option. Publishing selected notes in a blog can add motivation and useful feedback, but it is optional. Keep personal or employer-sensitive details private.
 
-> Just ignore stupid trolls. If you're easily triggered - don't read replies and feed them. Just use social media as your public learning journal.
+> If public replies distract you from learning, ignore them or keep the journal private. The writing is the useful part.
 
-During the learning process while studying the very basics of programming, it might be difficult for you to write about something, but later...&#x20;
+It may be difficult to write about programming while you are still learning the basics. That difficulty is useful evidence: it shows where your model is still vague.
 
-Just keep pushing, try harder! It is hard to write because our brains are lazy and it try to trick us with stress, or when we haven't fully understood what we studied/read. Try harder, hack yourself!&#x20;
+Keep trying, return to the source, run another example, and make the explanation more precise.
 
-Writing and thinking through writing is just another professional skill you should master if you want to become an elite self-learner and engineer.
+Thinking through writing is a professional skill worth developing if you want to become a strong self-directed learner and engineer.
 
-> Getting just 1% better each day will make you 3.6 times more skilled in a year. Now imagine pushing yourself beyond that 1% daily improvement. Just don't stop! Code, Read, Write RIGHT STUFF!
+> Consistency compounds, but progress is not a smooth percentage. Code, read, write, get feedback, and keep returning to the gaps you find.
 
 ***
 
-Last side note here. In case you struggle and start to think that you are stupid and blame yourself saying "I can't understand it, I will never be able to get it 😖💢"&#x20;
+One last note. You will sometimes struggle and think, "I cannot understand this; I will never be able to get it."
 
-At my very first steps in IT, I was studying the internals of Unix-like systems. Not because it was a requirement for passing my internship, but because from the start I was curious to hack as deep as I could. There were a lot of unclear things to me. But I remember the words of Dmitriy Ketov, from one of his videos about Linux Internals, I will never forget the essence of it:&#x20;
+During my first steps in IT, I studied the internals of Unix-like systems. It was not required for my internship; I was curious and wanted to go as deep as I could. Much of it was unclear. I still remember the essence of something Dmitriy Ketov said in a video about Linux internals. My paraphrase is:
 
-> "If a human invented or discovered it, you can understand it. Sooner or later, keep trying."
+> If a human invented or discovered it, you can understand it. Sooner or later, keep trying.
 
 <br>

@@ -4,24 +4,22 @@ icon: user-helmet-safety
 
 # Developing Sustainable Programming Skills
 
-So, you've already understood your programming language quite well, know what git and version control are, and know the basic concepts and tools of your programming language.
+By now, you should understand your first programming language reasonably well, know the basic tools around it, and have started using Git.
 
-Now you need to grow a new piece of programming brain. You need to learn to think quickly in your programming language and solve typical micro-tasks.
+Now build fluency: practise until common operations in the language no longer consume all of your attention and you can focus on the problem.
 
-Nothing but practice will help you here, of course.
+Choose one problem-solving resource with difficulty levels. Start slightly above the elementary tasks you can already solve comfortably.
 
-Choose one resource where you'll solve problems, and where problems are divided by difficulty categories.
+If you are using Codewars, working toward 6-5 kyu problems is a useful rough target. Rank is only a proxy; the real goal is to recognize recurring problem shapes and express a correct solution without flailing through syntax.
 
-There's no point in solving something completely elementary; you should have already learned to solve such problems.
+> Give every problem at least 15 focused minutes before looking for outside help. Longer is useful while you are still making progress.
 
-If we're looking at Codewars, your goal is to learn to solve 6-5 kyu fairly quickly, using your own brain without much googling and especially without LLM.
+When you use an LLM, ask for the smallest intervention that gets you moving: a question about your reasoning, a hint, a counterexample, or a review of your attempted solution. Do not turn the practice set into a prompt-writing exercise.
 
-> Please, dear reader. Try to think by yourself for at least 15 minutes before looking for help outside.
+Keep your solutions in a well-organized Git repository so you can revisit them. Publish the repository only when the exercise platform permits public solutions.
 
-Save all your problem solutions, create a repository on GitHub, organize it well and push.
+Do not get carried away with the counter. One hundred honestly completed tasks may teach more than five hundred copied ones, but the number is not the acceptance criterion.
 
-Don't get too carried away - 100-150 honestly completed tasks should advance you to the needed level and skills we're talking about here.
+If you did not choose Codewars, increase the difficulty until problems require decomposition, edge-case analysis, and a deliberate choice of data structure.
 
-If you didn't choose Codewars, then start with simple tasks and go up in difficulty to tasks with solutions of about 30 lines of code and problems that require thinking.
-
-If you just click through 150 simple tasks with 5-line solutions from different platforms - it won't help.
+Move on when you can solve a representative mix of problems, test edge cases, compare two possible solutions, and explain their time and space costs. Clicking through a large pile of nearly identical tasks will not build that ability.

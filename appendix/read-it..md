@@ -4,22 +4,20 @@ icon: head-side-gear
 
 # Read it.
 
-> Will this guide develop with time? Is there any chance that you will recommend concrete courses or resources for learning applied technologies?&#x20;
+> Will this guide continue to develop? Will you recommend concrete courses or resources for applied technologies?
 
-Yes, the chances are huge. I am actually planning to develop the guide and make it as valuable as possible.
+Yes. I plan to keep correcting the guide and replacing stale resources. Applied stacks change quickly, so I will add recommendations only when I can explain where they fit in the path.
 
 ***
 
-> I have questions that I didn't find answers to. What should I do?&#x20;
+> I have a question that the guide does not answer. What should I do?
 
-If you failed to find the answer yourself – Please write me wherever you like: [https://linktr.ee/m0n0x41d](https://linktr.ee/m0n0x41d)
+First, reduce it to a concrete problem: what are you trying to do, what happened, what did you expect, and what have you already tried? Search the documentation and ask your mentor, study group, or an AI assistant with that context.
 
-> I thought you said you're not providing help through this course, yet you wrote that I can ask you for help with learning material decisions. I'm confused.&#x20;
+If you still think the guide itself is unclear or wrong, feedback is welcome through the current links on [my personal page](https://me.ivanzakutnii.com/).
 
-Alright champion. If you're absolutely stuck and don't know what to do, if Googling and LLM don't help you – write to me, but please – [no hello](https://nohello.net/en/). Formalize your problem and questions and just write.&#x20;
+> Does that mean you provide individual mentorship through this guide?
 
-I will answer if I'm not dead 100%, but the answer might be delayed because I'm working like a workhorse.&#x20;
+No. I cannot promise individual help or a quick reply. A precise report about a broken link, unclear instruction, or missing prerequisite is still useful and may improve the guide for everyone.
 
-As I said – I'm not offering any paid mentorship, but if you have an offer for me that I might be interested in – book a meeting (the Calendly link in the linktree above ^). Thank you!
-
-ANY FEEDBACK ON THE BOOK IS ENDLESSLY APPRECIATED!
+Thank you for reading. Feedback on the book is always appreciated.

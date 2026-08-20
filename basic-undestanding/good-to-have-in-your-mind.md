@@ -4,10 +4,10 @@ icon: brain-circuit
 
 # Good-to-have in your mind
 
-To start programming from scratch, you need a decent understanding of high school algebra. Why? Because programming _is_ algebra at its core - it's all about manipulating symbols and calculations.
+High-school algebra is useful when you start programming, but it is not an admission test. Programming uses symbolic reasoning, logic, abstraction, and precise rules; different fields require different amounts of mathematics.
 
-Professional programming involves solving complex thinking problems that are a lot like math problems in essence (even if many of us don't realize this).
+Professional programming often involves breaking a problem into smaller parts, naming relationships, and checking whether a result follows from your assumptions. That habit is close to mathematical problem-solving even when the program itself contains little arithmetic.
 
-Don't get discouraged if you weren't great at math in school (I wasn't either).&#x20;
+Do not get discouraged if you were not great at mathematics in school. I was not either.
 
-You might be better at this kind of thinking than you expect. Just keep in mind that programming has deep mathematical roots, and try to understand these foundations as you learn.
+You may be better at this kind of thinking than you expect. Learn missing mathematics when a problem calls for it, and keep strengthening the logical foundations as you go.
